@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CRM-React/static/css/main.f855e6bc.css",
+    "main.js": "/CRM-React/static/js/main.7e75c1f4.js",
+    "static/js/453.b9b4a01c.chunk.js": "/CRM-React/static/js/453.b9b4a01c.chunk.js",
+    "static/media/logo.svg": "/CRM-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CRM-React/index.html",
+    "main.f855e6bc.css.map": "/CRM-React/static/css/main.f855e6bc.css.map",
+    "main.7e75c1f4.js.map": "/CRM-React/static/js/main.7e75c1f4.js.map",
+    "453.b9b4a01c.chunk.js.map": "/CRM-React/static/js/453.b9b4a01c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7e75c1f4.js"
+  ]
+}
